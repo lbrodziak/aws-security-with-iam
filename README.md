@@ -1,4 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Cloud Security with AWS IAM
 
@@ -119,13 +119,5 @@ Whe I tried to stop the prod instance I got an error indicating that the user do
 Next, when I tried to stop the development instance it failed. This was because the group policy allows users only to change EC instances that are tegged with develpment tag.
 
 ![Image](http://learn.nextwork.org/surprised_maroon_fierce_chinese_gooseberry/uploads/aws-security-iam_1811801c)
-
----
-
-## The IAM Policy Simulator
-
-### How I used the simulator
-
----
 
 ---
