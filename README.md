@@ -116,7 +116,7 @@ Whe I tried to stop the prod instance I got an error indicating that the user do
 
 ### Stopping the development instance
 
-Next, when I tried to stop the development instance it failed. This was because the group policy allows users only to change EC instances that are tegged with develpment tag.
+Next, when I tried to stop the development instance it passed. This was because the group policy allows users only to change EC instances that are tagged with develpment tag.
 
 ![Image](http://learn.nextwork.org/surprised_maroon_fierce_chinese_gooseberry/uploads/aws-security-iam_1811801c)
 
